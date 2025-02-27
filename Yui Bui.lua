@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TOLEDOSCRIPTS/shadovisrpg-/refs/heads/main/Yui%20Bui"))()
